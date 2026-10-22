@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: applimend
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./public
